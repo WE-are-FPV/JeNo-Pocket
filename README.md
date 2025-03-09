@@ -274,7 +274,9 @@ The version that wraps around the top plate is a bit heavier but eliminates the 
 
 Finally, the openings in the top plate allow you to secure the pigtail with a zip tie in case of lipo ejection.
 
-![JeNo Pocket, secure pigtail](./images/JeNoPocket_Ziptie.jpg)
+<p align="center">
+  <img src="./images/JeNoPocket_Ziptie.jpg">
+</p>
 
 ## Inspiration
 
