@@ -86,6 +86,7 @@ The JeNo is also available in [3" and 3.5" versions](https://github.com/WE-are-F
 
 ## Detailed specifications
 
+|||
 | :--- | :--- |
 | **Geometry** | **Wide-X** | 
 | **Props size** | 2.5" | 
