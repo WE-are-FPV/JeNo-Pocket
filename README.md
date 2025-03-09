@@ -86,6 +86,7 @@ The JeNo is also available in [3" and 3.5" versions](https://github.com/WE-are-F
 
 ## Detailed specifications
 
+| :--- | :--- |
 | **Geometry** | **Wide-X** | 
 | **Props size** | 2.5" | 
 | **Weight** | **24 g**, with screws | 
@@ -109,7 +110,7 @@ Different approaches are possible, from ultra-light to mini-rocket, depending on
 ![JeNo Pocket, motors](./images/JeNoPocket_Motors.jpg)
 
 | **Size** | **Stator volume** | **Recommended KV (2S)** | **Recommended KV (3S)** |
-| :---: | :--- | :--- | :--- |
+| :---: | :---: | :---: | :---: |
 | 1202 | 226 mm³ | ~8000 | ~6000 |
 | 1103 | 285 mm³ | ~8000 | ~6000 |
 | **1203** | **339 mm³** | **~8000** | **~6000** |
@@ -240,13 +241,17 @@ It is recommended to use 5mm diameter standoffs, especially for those that will 
 ### Build
 The assembly of the frame is straightforward :
 
-![JeNo Pocket assembly](./images/JeNoPocket_Exploded_View.jpg)
+<p align="center">
+  <img src="./images/JeNoPocket_Exploded_View.jpg">
+</p>
 
 ### Lipo mounting
 
 Two spaces are provided on the top plate to attach two thin strips of **lipo pad** (approximately 16mm x 5mm). It is recommended to use 1.5mm thick lipo pad to minimize weight.
 
-![JeNo Pocket, lipo pad area](./images/JeNoPocket_LipoPads.jpg)
+<p align="center">
+  <img src="./images/JeNoPocket_LipoPads.jpg">
+</p>
 
 **11-12 cm long straps** will work perfectly for 2S and 3S lipos from 450 to 560 mAh.
 
