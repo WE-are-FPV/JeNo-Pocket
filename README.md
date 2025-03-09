@@ -86,7 +86,6 @@ The JeNo is also available in [3" and 3.5" versions](https://github.com/WE-are-F
 
 ## Detailed specifications
 
-|||
 | **Geometry** | **Wide-X** | 
 | **Props size** | 2.5" | 
 | **Weight** | **24 g**, with screws | 
@@ -132,7 +131,7 @@ Small 2S ~450 mAh lipos are possible with a very light setup and small motors, b
 In any case, we strongly recommend **Dogcom 2S and 3S 560 mAh** lipos, as they have shown the best performance by far.
 
 <p align="center">
-  <img width="460" height="300" src="./images/JeNoPocket_Lipo_Dogcom.jpg">
+  <img src="./images/JeNoPocket_Lipo_Dogcom.jpg">
 </p>
 
 Depending on the lipos, during a freestyle flight outdoors in cold weather (~5°C), flight times can range from **2 minutes** (BetaFPV 2S 450 mAh) to **5 minutes** (Dogcom 3S 560 mAh)! You can even hope to reach **7 minutes** with a smooth flight using these same lipos.
