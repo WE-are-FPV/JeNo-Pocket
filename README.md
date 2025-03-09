@@ -272,6 +272,10 @@ Since the JeNo Pocket and lipos are so light, using TPU lipo pads is sufficient.
 
 The version that wraps around the top plate is a bit heavier but eliminates the need for glue.
 
+Finally, the openings in the top plate allow you to secure the pigtail with a zip tie in case of lipo ejection.
+
+![JeNo Pocket, secure pigtail](./images/JeNoPocket_Ziptie.jpg)
+
 ## Inspiration
 
 The **JeNo Pocket** is mainly inspired by its two larger siblings, the JeNo 3 and 5".
