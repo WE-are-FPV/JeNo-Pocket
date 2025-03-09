@@ -94,7 +94,7 @@ The JeNo is also available in [3" and 3.5" versions](https://github.com/WE-are-F
 | **Top plate** | 2 mm | 
 | **Camera plates** | 2 mm | 
 | **Motors mounting** | 9 mm | 
-| **Camera** | 14 mm, Nano, O4 Lite camera. **Clear FOV**. Ajustable.
+| **Camera** | 14 mm, Nano, O4 Lite camera. **Clear FOV**. Ajustable. |
 | **Main stack** | 30.5 mm x 30.5 | 
 | **Back stack** | RX area. 13 mm x 13 mm | 
 | **Supported VTX** | Analogic, **DJI Air Unit O4 Lite**, WalkSnail, HDZero… | 
