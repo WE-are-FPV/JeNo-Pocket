@@ -102,6 +102,26 @@ The JeNo is also available in [3" and 3.5" versions](https://github.com/WE-are-F
 | **Supported VTX** | Analogic, **DJI Air Unit O4 Lite**, WalkSnail, HDZero… | 
 | **Strap passage** | No | 
 
+## Bottom Plate Alternative (USB Vertical)
+Some flight controllers (often for tinywhoops) come with a vertical USB connector. These are **NOT** the FCs we recommend for the JeNo Pocket, as they are often limited to 12A. Instead, we recommend AiOs capable of delivering 20A for peace of mind.
+
+However, with lightweight motor setups, this remains a viable option for the Pocket, **but we strongly encourage you to check your motor power consumption carefully**.
+
+Some pilots were tempted to manually cut a hole to allow for the vertical USB connector. Besides the difficulty of working with carbon fiber and the potential health risks, this modification could weaken the frame and negatively affect flight performance.
+
+For this reason, we have decided to provide an **alternative bottom plate** for the JeNo Pocket, featuring openings at the front and rear to accommodate a vertical USB connector.
+
+If you plan to use such an AiO, you have **two options** :
+
+* Stick with the **standard bottom plate** and place the AiO at the top of the stack rather than underneath. The Pocket’s height allows for this, but to access the connector, you will need to remove the top plate.
+* Use the **alternative bottom plate* we have made available.
+
+![JeNo Pocket, RX options](./images/JeNoPocket_Bottom_Alternatives.jpg)
+
+Warning: The alternative version is currently in beta. It has not been tested yet but should be compatible with AiO FCs featuring a vertical Micro USB or USB-C connector.
+
+![JeNo Pocket, RX options](./images/JeNoPocket_BottomPlate_USB.jpg)
+
 ## Recommended configuration
 
 Different approaches are possible, from ultra-light to mini-rocket, depending on your hardware choices.
@@ -359,6 +379,8 @@ Among the files to download, you’ll find some TPU parts for your JeNo Pocket. 
 > [!TIP]
 > Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.
 
+* 16/03/2025 :
+  * Addition of an alternative bottom plate (untested) for AiO FCs with a vertical USB connector.
 * 09/03/2025 : 
   * Added lipo pads (in TPU, to be glued/inserted or custom-cut).
 * 17/02/2025 : 
