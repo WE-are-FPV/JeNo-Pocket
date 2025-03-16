@@ -116,7 +116,7 @@ If you plan to use such an AiO, you have **two options** :
 * Stick with the **standard bottom plate** and place the AiO at the top of the stack rather than underneath. The Pocket’s height allows for this, but to access the connector, you will need to remove the top plate.
 * Use the **alternative bottom plate* we have made available.
 
-![JeNo Pocket, RX options](./images/JeNoPocket_Bottom_Alternatives.jpg)
+![JeNo Pocket, RX options](./images/JeNoPocket_Bottom_Alternatives.png)
 
 Warning: The alternative version is currently in beta. It has not been tested yet but should be compatible with AiO FCs featuring a vertical Micro USB or USB-C connector.
 
