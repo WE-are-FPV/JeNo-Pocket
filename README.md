@@ -379,6 +379,8 @@ Among the files to download, you’ll find some TPU parts for your JeNo Pocket. 
 > [!TIP]
 > Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.
 
+* 18/03/2025 :
+  * Addition of a unique DXF for all parts + PDF in accordance with other JeNo
 * 16/03/2025 :
   * Addition of an alternative bottom plate (untested) for AiO FCs with a vertical USB connector.
 * 09/03/2025 : 
