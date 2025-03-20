@@ -370,6 +370,10 @@ Among the files to download, you’ll find some TPU parts for your JeNo Pocket. 
 
 **Fork/remix**
 
+If something isn't 100% to your liking on the JeNo Pocket, feel free to check out the community remixes—you might just find what you're looking for:
+
+* [JeNo Pocket Custom](https://www.printables.com/model/1222804-jeno-pocket-custom) by NOX: Modified cutout patterns in the top and bottom plates, plus a slot for a lipo strap.
+* [JeNo 25 (Pocket Custom)](https://www.printables.com/model/1236609-jeno-25-pocket-custom) by Cam.Traveler (Marc): Supports 19mm or 14mm cameras, low-profile option, variations from light to bando, and soft-mounted camera plates—all well-documented!
 
 **TPU**
 
