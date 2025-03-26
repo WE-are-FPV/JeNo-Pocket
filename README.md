@@ -10,7 +10,7 @@
 > [!NOTE]
 > Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) community, the JeNo is already flown by hundreds of pilots and is now being sold by [Drone FPV Racer](https://www.drone-fpv-racer.com/recherche?controller=search&s=JeNo+5.1+frame&aff=64&id_campaign=13) (affiliate link). The French version of the project is available on [Printables](https://www.printables.com/model/1175339-jeno-pocket-drone-frame). Note that a [3-3.5" version](https://github.com/WE-are-FPV/JeNo-3-3.5), a [5.1-6" version](https://github.com/WE-are-FPV/JeNo-5.1) and a [7-8" version](https://github.com/WE-are-FPV/JeNo-7) of the JeNo exist.
 
-![JeNo Pocket - 3D render](./images/JeNoPocket_3DRender_slim2.jpg)
+![JeNo Pocket - 3D render](./images/PocketProfil1_low.jpg)
 
 ## Table of contents
 
