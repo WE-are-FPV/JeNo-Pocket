@@ -111,7 +111,7 @@ The JeNo is also available in [3" and 3.5" versions](https://github.com/WE-are-F
 
 The **JeNo Pocket V1** was designed partly around the **DJI O4 Lite**. Unfortunately, this model is **no longer available** and has been replaced by the **DJI O4 Wide**. Although the VTX itself is exactly the same, the camera—and particularly its lens and lens mount—is different.
 
-Even though the JeNo Pocket V2 has now been released, we wanted to ensure that the JeNo Pocket V1 **remained compatible** with the new **DJI O4 Wide**. We therefore designed **two new sets of camera plates* :
+Even though the [JeNo Pocket V2](https://github.com/WE-are-FPV/JeNo-Pocket-V2) has now been released, we wanted to ensure that the JeNo Pocket V1 **remained compatible** with the new **DJI O4 Wide**. We therefore designed **two new sets of camera plates** :
 
 * A **basic** version, with two perfectly identical camera plates.
 * A **“reinforced chamfered”** version, featuring additional protection around the lens and a design closer to the original look.
@@ -417,7 +417,7 @@ If something isn't 100% to your liking on the JeNo Pocket, feel free to check ou
 > [!TIP]
 > Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.
 
-*Version **1.1.0** (17/07/2026)
+* Version **1.1.0** (17/07/2026)
   * Added two alternative camera plates compatible with the DJI O4 Wide.
 * 18/03/2025 :
   * Addition of a unique DXF for all parts + PDF in accordance with other JeNo
