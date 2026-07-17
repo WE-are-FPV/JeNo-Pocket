@@ -20,6 +20,8 @@
 * [Key features](#key-features)
 * [Presentation](#presentation)
 * [Detailed specifications](#detailed-specifications)
+* [Alternative Camera Plates (DJI O4 Wide)](#alternative-camera-plates-dji-O4-wide)
+* [Bottom Plate Alternative (USB Vertical)](#bottom-plate-alternative-usb-vertical)
 * [Recommended configuration](#recommended-configuration)
 * [Versions and files](#versions-and-files)
 * [Get it cut !](#buy-it-or-cut-it-)
@@ -42,7 +44,7 @@
 - [x] **Sturdiness** and **rigidity**
 - [x] Frame, standoffs, and propellers **NOT visible in the video feed**
 - [x] **Variable tilt** from 20° to 35°
-- [x] Designed for : DJI AU O4 Lite, WalkSnail, HDZero, Analog
+- [x] Designed for : DJI AU O4 Lite/Wide, WalkSnail, HDZero, Analog
 - [x] **Soft-mounted camera** for good stabilization and better durability
 - [x] **Roomy** (20 mm high)
 - [x] Obviously **Open Source**
@@ -50,7 +52,7 @@
 ## Presentation
 **2.5" quads** are **amazing** : playful, lightweight, quiet. You can fly them almost anywhere without risking disturbance or injury. Plus, (almost) everything is cheaper: motors, lipos, props…
 
-The DJI Air Unit O3 and its camera were not suitable for this format, which is why we stopped at the [JeNo 3"](https://github.com/WE-are-FPV/JeNo-3-3.5). But the release of the **Air Unit O4 Lite** changes everything !
+The DJI Air Unit O3 and its camera were not suitable for this format, which is why we stopped at the [JeNo 3"](https://github.com/WE-are-FPV/JeNo-3-3.5). But the release of the **Air Unit O4 Lite/Wide** changes everything !
 
 This was the perfect opportunity to give the [JeNo 3"](https://github.com/WE-are-FPV/JeNo-3-3.5) a little brother ! And although there's only a **0.5" difference** in prop size, they are actually very different ! The JeNo Pocket looks **twice as small** and is, in fact, **twice as light** !
 
@@ -102,8 +104,33 @@ The JeNo is also available in [3" and 3.5" versions](https://github.com/WE-are-F
 | **Camera** | 14 mm, Nano, O4 Lite camera. **Clear FOV**. Ajustable. |
 | **Main stack** | 30.5 mm x 30.5 | 
 | **Back stack** | RX area. 13 mm x 13 mm | 
-| **Supported VTX** | Analogic, **DJI Air Unit O4 Lite**, WalkSnail, HDZero… | 
+| **Supported VTX** | Analogic, **DJI Air Unit O4 Lite/Wide**, WalkSnail, HDZero… | 
 | **Strap passage** | No | 
+
+## Alternative Camera Plates (DJI O4 Wide)
+
+The **JeNo Pocket V1** was designed partly around the **DJI O4 Lite**. Unfortunately, this model is **no longer available** and has been replaced by the **DJI O4 Wide**. Although the VTX itself is exactly the same, the camera—and particularly its lens and lens mount—is different.
+
+Even though the JeNo Pocket V2 has now been released, we wanted to ensure that the JeNo Pocket V1 **remained compatible** with the new **DJI O4 Wide**. We therefore designed **two new sets of camera plates* :
+
+* A **basic** version, with two perfectly identical camera plates.
+* A **“reinforced chamfered”** version, featuring additional protection around the lens and a design closer to the original look.
+
+![New O4 Wide camera plates](./images/DJI_O4_Wide_cam_plates_EN.png)
+
+The **basic version** works perfectly well, is **easier to machine**, and uses the **same plate on both sides**.
+
+The **second version** provides some additional reinforcement around the lens. However, **the chamfer** around the lens protector **is essential**; without it, the camera plates will be visible at the sides of the camera’s field of view. Because of this chamfer, the **left and right camera plates** are **different**.
+
+![Chanfreins](./images/DJI_O4_Wide_cam_plates_chamfered.jpg)
+
+The camera must be moved forward precisely up to the beginning of the chamfer, as shown in the photo below.
+
+![Pictures of the O4 Wide camera plates](./images/DJI_O4_Wide_cam_plates_photo.jpg)
+
+This provides the best possible protection.
+
+![O4 Wide camera protection](./images/DJI_O4_Wide_cam_plates_protection.jpg)
 
 ## Bottom Plate Alternative (USB Vertical)
 Some flight controllers (often for tinywhoops) come with a vertical USB connector. These are **NOT** the FCs we recommend for the JeNo Pocket, as they are often limited to 12A. Instead, we recommend AiOs capable of delivering 20A for peace of mind.
@@ -390,6 +417,8 @@ If something isn't 100% to your liking on the JeNo Pocket, feel free to check ou
 > [!TIP]
 > Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.
 
+*Version **1.1.0** (17/07/2026)
+  * Added two alternative camera plates compatible with the DJI O4 Wide.
 * 18/03/2025 :
   * Addition of a unique DXF for all parts + PDF in accordance with other JeNo
 * 16/03/2025 :
