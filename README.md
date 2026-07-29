@@ -1,6 +1,6 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 > [!NOTE]
-> Current version : **1.0.0** (read [changelog](#changelog) for details)
+> Current version : **1.1.0** (read [changelog](#changelog) for details)
 
 > [!TIP]
 > Version **2.0** available on its own page : [JeNo Pocket V2](https://github.com/WE-are-FPV/JeNo-Pocket-V2)
@@ -410,7 +410,7 @@ If something isn't 100% to your liking on the JeNo Pocket, feel free to check ou
 
 **TPU**
 
-* [Backpack pour ViFly Finder](https://www.printables.com/model/1262438-back-pack-finder-mini-pour-jeno-pocket-25) (par [Tooma](https://www.printables.com/@tomtom_fpv_2283950))
+* [Backpack pour ViFly Finder](https://www.printables.com/model/1262438-back-pack-finder-mini-pour-jeno-pocket-25) (by [Tooma](https://www.printables.com/@tomtom_fpv_2283950))
 
 ## Changelog
 
